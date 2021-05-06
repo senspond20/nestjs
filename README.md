@@ -17,6 +17,7 @@ $ nest g service auth
 ```
 nest g module users
 nest g service users
+nest g controller users
 ```
 
 ```
